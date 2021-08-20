@@ -4,5 +4,5 @@
 
 layout: default
 ---
-# Hello, world
-Is this thing on?
+# Projects
+[CCSD COVID Reporting](https://calittle.github.io/pages/ccsd)
