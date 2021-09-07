@@ -13,7 +13,8 @@ is some margin of error here that the county has not clarified._
 
 Previous pages can be retrieved via [WaybackMachine](https://web.archive.org/web/20210522002900/https://www.cobbk12.org/page/40801/covid-case-notification)
 
-[Data](https://github.com/calittle/ccsd_covid/blob/main/Cobb%20K12%20Covid.numbers)
+## Data
+The [data](https://github.com/calittle/ccsd_covid/blob/main/Cobb%20K12%20Covid.numbers)file is updated when the County updates their reporting, which is typically mid-day on Fridays.
 
 ## All Cases
 ![All Cases](https://github.com/calittle/ccsd_covid/blob/main/all_chart.png?raw=true)
